@@ -1,0 +1,15 @@
+# JSON & Regex Demo Requirements
+# Standard library only - no external dependencies needed
+# But here are some optional packages for extended functionality
+
+# For enhanced JSON handling and validation
+jsonschema==4.20.0
+
+# For more powerful regex patterns
+regex==2023.12.25
+
+# For type checking (optional)
+mypy==1.7.1
+
+# For code formatting (optional)
+black==23.12.1
